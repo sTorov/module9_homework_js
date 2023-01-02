@@ -1,0 +1,40 @@
+main{
+    width: 700px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.label{
+    margin-bottom: 10px;
+}
+
+.label-span{
+    margin-right: 5px;
+}
+
+.input{
+    width: 30px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
+
+.request-result{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 660px;
+}
+
+.attention{
+    color: red;
+}
+
+.img-card{
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+}
